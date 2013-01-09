@@ -1,4 +1,4 @@
-HowToBeAwesome
+How To Be Awesome
 ==============
 
 The entire source and content of How To Be Awesome. http://amzn.com/0557250315
